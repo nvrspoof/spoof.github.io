@@ -28,12 +28,8 @@ exit();
 <title>Email Pranks</title>
 </head>
 <body bgcolor="#ffffcc">
-<h2 align="center">
-Fake Email Prank Script By Srikanth
-</h2>
-<h3 align="center">
-Please do not misuse this script. Use it only for having FUN.
-</h3><br>
+
+
 <p style="margin-left:15px">
 <form action="sendmail.php" method="POST">
 <b>From Name:</b><br>
